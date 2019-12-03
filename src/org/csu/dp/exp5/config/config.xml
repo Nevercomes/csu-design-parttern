@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.csu</groupId>
+    <artifactId>dp</artifactId>
+    <version>1.2.6</version>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.apache.axis2.wso2/axis2 -->
+        <dependency>
+            <groupId>org.apache.axis2.wso2</groupId>
+            <artifactId>axis2</artifactId>
+            <version>1.6.1-wso2v40</version>
+        </dependency>
+    </dependencies>
+
+</project>
